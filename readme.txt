@@ -5,9 +5,4 @@ Git is free software.
 4444
 666
 777
-<<<<<<< HEAD
-9999
-=======
-8888
->>>>>>> fenzhi1
-dfd
+0000
